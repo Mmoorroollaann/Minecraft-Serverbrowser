@@ -1,0 +1,3 @@
+- Update the classes connecting to mcserverlist.net's API
+- Go through the code, fix mistakes, apply newly learned stuff to the code
+- Rewrite the classes providing API access.
