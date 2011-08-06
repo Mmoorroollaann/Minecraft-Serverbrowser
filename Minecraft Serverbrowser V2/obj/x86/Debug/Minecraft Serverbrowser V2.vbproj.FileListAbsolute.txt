@@ -1,0 +1,20 @@
+C:\Users\Michael\documents\visual studio 2010\Projects\Minecraft Serverbrowser V2\Minecraft Serverbrowser V2\bin\Debug\Minecraft Serverbrowser V2.exe.config
+C:\Users\Michael\documents\visual studio 2010\Projects\Minecraft Serverbrowser V2\Minecraft Serverbrowser V2\bin\Debug\Minecraft Serverbrowser V2.exe
+C:\Users\Michael\documents\visual studio 2010\Projects\Minecraft Serverbrowser V2\Minecraft Serverbrowser V2\bin\Debug\Minecraft Serverbrowser V2.pdb
+C:\Users\Michael\documents\visual studio 2010\Projects\Minecraft Serverbrowser V2\Minecraft Serverbrowser V2\bin\Debug\Minecraft Serverbrowser V2.xml
+C:\Users\Michael\documents\visual studio 2010\Projects\Minecraft Serverbrowser V2\Minecraft Serverbrowser V2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\documents\visual studio 2010\Projects\Minecraft Serverbrowser V2\Minecraft Serverbrowser V2\obj\x86\Debug\Minecraft_Serverbrowser_V2.frmAbout.resources
+C:\Users\Michael\documents\visual studio 2010\Projects\Minecraft Serverbrowser V2\Minecraft Serverbrowser V2\obj\x86\Debug\Minecraft_Serverbrowser_V2.frmDetails.resources
+C:\Users\Michael\documents\visual studio 2010\Projects\Minecraft Serverbrowser V2\Minecraft Serverbrowser V2\obj\x86\Debug\Minecraft_Serverbrowser_V2.frmFilters.resources
+C:\Users\Michael\documents\visual studio 2010\Projects\Minecraft Serverbrowser V2\Minecraft Serverbrowser V2\obj\x86\Debug\Minecraft_Serverbrowser_V2.frmServerFavourite.resources
+C:\Users\Michael\documents\visual studio 2010\Projects\Minecraft Serverbrowser V2\Minecraft Serverbrowser V2\obj\x86\Debug\Minecraft_Serverbrowser_V2.frmServerlist.resources
+C:\Users\Michael\documents\visual studio 2010\Projects\Minecraft Serverbrowser V2\Minecraft Serverbrowser V2\obj\x86\Debug\Minecraft_Serverbrowser_V2.frmSettings.resources
+C:\Users\Michael\documents\visual studio 2010\Projects\Minecraft Serverbrowser V2\Minecraft Serverbrowser V2\obj\x86\Debug\Minecraft_Serverbrowser_V2.frmStartMinecraft.resources
+C:\Users\Michael\documents\visual studio 2010\Projects\Minecraft Serverbrowser V2\Minecraft Serverbrowser V2\obj\x86\Debug\Minecraft_Serverbrowser_V2.frmmdiMain.resources
+C:\Users\Michael\documents\visual studio 2010\Projects\Minecraft Serverbrowser V2\Minecraft Serverbrowser V2\obj\x86\Debug\Minecraft_Serverbrowser_V2.Resources.resources
+C:\Users\Michael\documents\visual studio 2010\Projects\Minecraft Serverbrowser V2\Minecraft Serverbrowser V2\obj\x86\Debug\Minecraft_Serverbrowser_V2.SplashScreen.resources
+C:\Users\Michael\documents\visual studio 2010\Projects\Minecraft Serverbrowser V2\Minecraft Serverbrowser V2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Michael\documents\visual studio 2010\Projects\Minecraft Serverbrowser V2\Minecraft Serverbrowser V2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Michael\documents\visual studio 2010\Projects\Minecraft Serverbrowser V2\Minecraft Serverbrowser V2\obj\x86\Debug\Minecraft Serverbrowser V2.exe
+C:\Users\Michael\documents\visual studio 2010\Projects\Minecraft Serverbrowser V2\Minecraft Serverbrowser V2\obj\x86\Debug\Minecraft Serverbrowser V2.xml
+C:\Users\Michael\documents\visual studio 2010\Projects\Minecraft Serverbrowser V2\Minecraft Serverbrowser V2\obj\x86\Debug\Minecraft Serverbrowser V2.pdb

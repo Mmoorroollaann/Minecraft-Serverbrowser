@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Favourites>
+  <Favourite ID="1">
+    <IP>88.198.54.141</IP>
+    <Name>LZ</Name>
+    <Uptime>100</Uptime>
+    <Website>True</Website>
+    <WebsiteURL>http://minecraft.lethal-zone.eu</WebsiteURL>
+    <Thread>False</Thread>
+    <ThreadURL>
+    </ThreadURL>
+    <Description>
+    </Description>
+    <Modified>False</Modified>
+    <Rights>False</Rights>
+    <Whitelist>False</Whitelist>
+    <Pay>False</Pay>
+  </Favourite>
+  <Favourite ID="2">
+    <IP>71.202.116.42:25565</IP>
+    <Name>Kairondio's Freebuild</Name>
+    <Uptime>100</Uptime>
+    <Website>False</Website>
+    <WebsiteURL>
+    </WebsiteURL>
+    <Thread>False</Thread>
+    <ThreadURL>
+    </ThreadURL>
+    <Description>Kai's freebuild server, running bukkit, a few mods in use, on a dedicated server computer up 24/7!!!</Description>
+    <Modified>False</Modified>
+    <Rights>False</Rights>
+    <Whitelist>False</Whitelist>
+    <Pay>False</Pay>
+  </Favourite>
+</Favourites>

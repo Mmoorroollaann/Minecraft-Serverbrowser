@@ -1,0 +1,3 @@
+﻿Falls man die Minimum bezw. Maximum Size eines Childfensters ändern will, muss man unbedingt auch in Unlock_Windows bezw. Reset_To_Default in frmmdiMain.vb die entsprechenden Grössen ändern.
+
+Falls man den Namen eines Tabs von frmServerlist ändern will, muss man unbedingt in a) frmServerlist.tabServerlist_SelectedIndexChanged und b) in mdiMain.ShowServercount die entsprechenden hardcoded strings ändern.

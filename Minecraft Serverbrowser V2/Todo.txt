@@ -1,0 +1,25 @@
+﻿Todo:
+
+History:
+
+	Add code in:
+		frmServerlist.tabServerlist_SelectedIndexChanged
+		frmmdiMain.Show_Servercount()
+
+	Make sure that no conflicts in:
+		frmDetails.Update_Data
+
+
+
+Done:
+
+	Translation:
+
+		History:
+			tabServerlist_History
+			cmdClearHistory
+
+		StatusStrip:
+			Servercount Favourites & Redstonewire & History
+
+		Add proper handling if translation file is missing, so no blank buttons anymore.

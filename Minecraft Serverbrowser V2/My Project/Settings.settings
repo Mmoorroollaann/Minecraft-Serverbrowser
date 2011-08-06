@@ -1,0 +1,84 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="filterBuildingRights" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="filterModified" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="filterPayToPlay" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="filterWhitelist" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="childFiltersLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">303, 212</Value>
+    </Setting>
+    <Setting Name="childDetailsLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="childServerlistLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">515, 0</Value>
+    </Setting>
+    <Setting Name="childServerlistSize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">202, 424</Value>
+    </Setting>
+    <Setting Name="parentmdiMainLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="parentmdiMainSize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">737, 512</Value>
+    </Setting>
+    <Setting Name="childStartMinecraftLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">303, 0</Value>
+    </Setting>
+    <Setting Name="childStartMinecraftSize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">212, 212</Value>
+    </Setting>
+    <Setting Name="childFiltersSize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">212, 212</Value>
+    </Setting>
+    <Setting Name="childDetailsSize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">303, 424</Value>
+    </Setting>
+    <Setting Name="LockWindows" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="childFiltersActive" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="childDetailsActive" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="childServerlistActive" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="childStartMinecraftActive" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="settingsOfflineMode" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="settingsPathToMinecraftExe" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="settingsLogInOnMCStart" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="settingsUserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="settingsUserPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="settingsLanguageFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="globalDonatePromptDisplaied" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
